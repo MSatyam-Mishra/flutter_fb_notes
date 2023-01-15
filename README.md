@@ -1,10 +1,11 @@
 # flutter_fb_notes
 
-A new Flutter project.
+A simple Android app built using Flutter & Firebase.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app is  a simple extension to <a href="https://www.youtube.com/watch?v=fL8Ujzh5DQc">this tutorial from Doctor. Code<\a>
+I created this project for learning purpose only. 
 
 A few resources to get you started if this is your first Flutter project:
 
