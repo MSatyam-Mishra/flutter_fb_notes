@@ -2,6 +2,8 @@
 
 A simple Android app built using Flutter & Firebase.
 
+It is still a work in progress.
+
 ## Getting Started
 
 This app is  a simple extension to a [tutorial from Doctor Code](https://www.youtube.com/watch?v=fL8Ujzh5DQc)
