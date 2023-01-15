@@ -1,10 +1,10 @@
-# flutter_fb_notes
+# Notes App
 
 A simple Android app built using Flutter & Firebase.
 
-It is still a work in progress.
+It's still a work in progress.....
 
-## Getting Started
+## About This App
 
 This app is  a simple extension to a [tutorial from Doctor Code](https://www.youtube.com/watch?v=fL8Ujzh5DQc)
 I created this project for learning purpose only. 
