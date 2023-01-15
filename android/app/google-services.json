@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276952333905",
+    "project_id": "flutter-fire-notes-a8f17",
+    "storage_bucket": "flutter-fire-notes-a8f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276952333905:android:b2d489a13d0905e153c270",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fb_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276952333905-18h7vb0c7pec2bjrigelbkao7p2uvrum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4uSyJimEnvEBNK6H2RUQJSzgXSQcrhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276952333905-18h7vb0c7pec2bjrigelbkao7p2uvrum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
